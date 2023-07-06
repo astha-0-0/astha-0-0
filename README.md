@@ -12,7 +12,7 @@
 
 <h3>Certification and Badges:</h3>
 <p>
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3b701734-d199-4883-8b8a-40fdd74ef21d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3b701734-d199-4883-8b8a-40fdd74ef21d" data-share-badge-host="https://www.credly.com"></div>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
