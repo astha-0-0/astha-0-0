@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Astha</h1>
-<h3 align="center">A frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 - 💬 Ask me about **Cloud, Angular, React**
 
@@ -10,7 +10,6 @@
 <a href="https://linkedin.com/in/astha-33599b239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="astha-33599b239" height="30" width="40" /></a>
 </p>
 
-<h3>Certification and Badges:</h3>
 <p>
   <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3b701734-d199-4883-8b8a-40fdd74ef21d" data-share-badge-host="https://www.credly.com"></div>
 </p>
